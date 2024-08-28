@@ -1,14 +1,14 @@
 # portfolio-simple-website
-Simple Portfolio
+# Simple Portfolio
 
 This is a basic portfolio website created with simple HTML and CSS.It includes two main pages: a Home page and a Contact page.
 
-Pages:
+# Pages:
 
 Home Page: An introduction to who I am, along with an overview of my skills and projects.
 Contact Page: A simple form where visitors can reach out to me.
 
-Technologies Used:
+# Technologies Used:
 
 HTML
 CSS
